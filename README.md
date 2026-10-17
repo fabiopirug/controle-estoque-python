@@ -12,7 +12,3 @@ Execute no terminal:
 python estoque.py
 
 ---
-
-Mas é *totalmente opcional*! Se quiser deixar como está, tá ótimo também — o importante é que seu código tá lá funcionando! 😊🚀
-
-Fica do seu jeito, tá bom? Parabéns pelo projeto! 👏
