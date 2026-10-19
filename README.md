@@ -1,4 +1,4 @@
-![Controle de Estoque](Controle de Estoque Sem Complicação.png)
+![Controle de Estoque](capa.png)
 # Controle de Estoque em Python
 
 Sistema simples de cadastro e consulta de produtos, desenvolvido em Python.
